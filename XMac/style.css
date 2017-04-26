@@ -1,4 +1,4 @@
-* {
+﻿* {
     box-sizing: border-box;
 }
 
@@ -190,7 +190,7 @@ h2{
 
 .space_4{
   background-color: #F5F5F5;
-  background: url(img/video.jpg);
+  background: url(img/mid2.jpg);
   background-position:top;
   background-repeat: no-repeat;
   background-attachment:scroll;
@@ -273,7 +273,7 @@ h5{
 .space_7{
   margin-top: 100px;
   color: rgb(0,0,0);
-  background: url(img/talk.png);
+  background: url(img/buy1.png);
   background-size: cover;
   height: 800px;
 }
